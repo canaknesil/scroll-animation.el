@@ -3,8 +3,8 @@
 ;;
 
 (setq animation-refresh-period 0.01)
-(setq scroll-animation-screen-ratio 0.75)
-(setq scroll-animation-sec 0.2)
+(setq scroll-animation-screen-ratio 0.85)
+(setq scroll-animation-sec 0.12)
 
 ;;
 ;; Utility
